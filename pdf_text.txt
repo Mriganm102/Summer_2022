@@ -1,0 +1,1900 @@
+MA July 2023Sales,PricesBy TownFor Single-FamilyHomes-- The WarrenGroup2023
+Jul 2022 Jul 2023 PercentChange
+ABINGTON
+Numberof Sales 17 18 5.9%
+YTD Numberof Sales 82 79 -3.7%
+MedianSale Price $610,000 $560,000 -8.2%
+YTD MedianSale Price $575,000 $532,000 -7.5%
+ACTON
+Numberof Sales 35 20 -42.9%
+YTD Numberof Sales 134 80 -40.3%
+MedianSale Price $845,000 $877,500 3.8%
+YTD MedianSale Price $880,500 $877,500 -0.3%
+ACUSHNET
+Numberof Sales 3 8 166.7%
+YTD Numberof Sales 41 40 -2.4%
+MedianSale Price $540,000 $467,500 -13.4%
+YTD MedianSale Price $403,900 $425,500 5.3%
+ADAMS
+Numberof Sales 7 8 14.3%
+YTD Numberof Sales 48 46 -4.2%
+MedianSale Price $190,000 $166,000 -12.6%
+YTD MedianSale Price $188,000 $193,308 2.8%
+AGAWAM
+Numberof Sales 14 26 85.7%
+YTD Numberof Sales 133 124 -6.8%
+MedianSale Price $345,000 $381,250 10.5%
+YTD MedianSale Price $311,000 $328,500 5.6%
+ALFORD
+Numberof Sales 1 0 -100.0%
+YTD Numberof Sales 6 2 -66.7%
+MedianSale Price $1,550,000 $0 -100.0%
+YTD MedianSale Price $1,000,000 $559,500 -44.1%
+ALLSTON
+Numberof Sales 2 0 -100.0%
+YTD Numberof Sales 9 5 -44.4%
+MedianSale Price $797,500 $0 -100.0%
+YTD MedianSale Price $825,000 $875,000 6.1%
+AMESBURY
+Numberof Sales 14 6 -57.1%
+YTD Numberof Sales 75 58 -22.7%
+MedianSale Price $564,500 $520,000 -7.9%
+YTD MedianSale Price $561,000 $616,000 9.8%
+AMHERST
+Numberof Sales 11 13 18.2%
+YTD Numberof Sales 95 71 -25.3%
+MedianSale Price $470,000 $746,000 58.7%
+YTD MedianSale Price $475,000 $525,000 10.5%
+ANDOVER
+Numberof Sales 32 31 -3.1%
+YTD Numberof Sales 192 126 -34.4%
+MedianSale Price $934,500 $1,035,000 10.8%YTD MedianSale Price $953,500 $1,001,000 5.0%
+AQUINNAH
+Numberof Sales 0 0
+YTD Numberof Sales 2 2 0.0%
+MedianSale Price $0 $0
+YTD MedianSale Price $2,025,000 $4,150,000 104.9%
+ARLINGTON
+Numberof Sales 31 24 -22.6%
+YTD Numberof Sales 180 117 -35.0%
+MedianSale Price $1,275,000 $1,287,500 1.0%
+YTD MedianSale Price $1,192,500 $1,152,000 -3.4%
+ASHBURNHAM
+Numberof Sales 12 11 -8.3%
+YTD Numberof Sales 58 46 -20.7%
+MedianSale Price $440,000 $405,000 -8.0%
+YTD MedianSale Price $366,500 $369,000 0.7%
+ASHBY
+Numberof Sales 2 0 -100.0%
+YTD Numberof Sales 27 16 -40.7%
+MedianSale Price $645,000 $0 -100.0%
+YTD MedianSale Price $375,000 $408,500 8.9%
+ASHFIELD
+Numberof Sales 0 0
+YTD Numberof Sales 5 7 40.0%
+MedianSale Price $0 $0
+YTD MedianSale Price $289,000 $274,000 -5.2%
+ASHLAND
+Numberof Sales 26 15 -42.3%
+YTD Numberof Sales 102 50 -51.0%
+MedianSale Price $685,000 $895,000 30.7%
+YTD MedianSale Price $660,000 $714,000 8.2%
+ATHOL
+Numberof Sales 10 12 20.0%
+YTD Numberof Sales 79 82 3.8%
+MedianSale Price $290,000 $289,000 -0.3%
+YTD MedianSale Price $280,000 $285,000 1.8%
+ATTLEBORO
+Numberof Sales 52 19 -63.5%
+YTD Numberof Sales 234 151 -35.5%
+MedianSale Price $450,000 $495,000 10.0%
+YTD MedianSale Price $450,000 $467,000 3.8%
+AUBURN
+Numberof Sales 14 22 57.1%
+YTD Numberof Sales 113 104 -8.0%
+MedianSale Price $452,500 $441,250 -2.5%
+YTD MedianSale Price $380,000 $395,000 3.9%
+AVON
+Numberof Sales 8 8 0.0%
+YTD Numberof Sales 42 29 -31.0%
+MedianSale Price $537,500 $417,500 -22.3%
+YTD MedianSale Price $475,500 $499,000 4.9%AYER
+Numberof Sales 9 6 -33.3%
+YTD Numberof Sales 33 36 9.1%
+MedianSale Price $645,000 $469,000 -27.3%
+YTD MedianSale Price $565,000 $552,500 -2.2%
+BARNSTABLE
+Numberof Sales 10 2 -80.0%
+YTD Numberof Sales 53 27 -49.1%
+MedianSale Price $635,000 $1,355,000 113.4%
+YTD MedianSale Price $765,000 $850,000 11.1%
+BARNSTABLECOUNTY
+Numberof Sales 0 0
+YTD Numberof Sales 0 0
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $0
+BARRE
+Numberof Sales 3 4 33.3%
+YTD Numberof Sales 37 18 -51.4%
+MedianSale Price $335,000 $335,000 0.0%
+YTD MedianSale Price $350,000 $307,500 -12.1%
+BECKET
+Numberof Sales 3 6 100.0%
+YTD Numberof Sales 23 24 4.3%
+MedianSale Price $315,000 $361,500 14.8%
+YTD MedianSale Price $283,000 $382,000 35.0%
+BEDFORD
+Numberof Sales 14 19 35.7%
+YTD Numberof Sales 79 68 -13.9%
+MedianSale Price $895,000 $1,100,000 22.9%
+YTD MedianSale Price $930,000 $1,032,500 11.0%
+BELCHERTOWN
+Numberof Sales 18 19 5.6%
+YTD Numberof Sales 96 66 -31.3%
+MedianSale Price $385,000 $405,000 5.2%
+YTD MedianSale Price $376,625 $427,500 13.5%
+BELLINGHAM
+Numberof Sales 16 12 -25.0%
+YTD Numberof Sales 113 91 -19.5%
+MedianSale Price $432,500 $522,500 20.8%
+YTD MedianSale Price $435,000 $470,000 8.0%
+BELMONT
+Numberof Sales 17 14 -17.6%
+YTD Numberof Sales 91 73 -19.8%
+MedianSale Price $1,800,000 $1,402,500 -22.1%
+YTD MedianSale Price $1,615,000 $1,470,000 -9.0%
+BERKLEY
+Numberof Sales 7 3 -57.1%
+YTD Numberof Sales 44 28 -36.4%
+MedianSale Price $580,000 $460,000 -20.7%
+YTD MedianSale Price $537,500 $536,000 -0.3%
+BERKSHIRECOUNTYNumberof Sales 0 0
+YTD Numberof Sales 0 0
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $0
+BERLIN
+Numberof Sales 4 2 -50.0%
+YTD Numberof Sales 21 17 -19.0%
+MedianSale Price $620,000 $1,017,500 64.1%
+YTD MedianSale Price $440,000 $550,000 25.0%
+BERNARDSTON
+Numberof Sales 1 3 200.0%
+YTD Numberof Sales 5 8 60.0%
+MedianSale Price $280,000 $440,000 57.1%
+YTD MedianSale Price $294,000 $394,500 34.2%
+BEVERLY
+Numberof Sales 29 26 -10.3%
+YTD Numberof Sales 180 120 -33.3%
+MedianSale Price $715,000 $692,500 -3.1%
+YTD MedianSale Price $630,500 $678,750 7.7%
+BILLERICA
+Numberof Sales 31 23 -25.8%
+YTD Numberof Sales 230 143 -37.8%
+MedianSale Price $625,000 $657,000 5.1%
+YTD MedianSale Price $620,500 $650,000 4.8%
+BLACKSTONE
+Numberof Sales 5 2 -60.0%
+YTD Numberof Sales 39 29 -25.6%
+MedianSale Price $490,000 $377,500 -23.0%
+YTD MedianSale Price $430,000 $424,000 -1.4%
+BLANDFORD
+Numberof Sales 2 3 50.0%
+YTD Numberof Sales 7 7 0.0%
+MedianSale Price $420,000 $350,000 -16.7%
+YTD MedianSale Price $425,000 $250,000 -41.2%
+BOLTON
+Numberof Sales 12 6 -50.0%
+YTD Numberof Sales 53 33 -37.7%
+MedianSale Price $810,400 $909,500 12.2%
+YTD MedianSale Price $775,000 $880,000 13.5%
+BOSTON
+Numberof Sales 8 5 -37.5%
+YTD Numberof Sales 35 21 -40.0%
+MedianSale Price $3,407,500 $4,800,000 40.9%
+YTD MedianSale Price $3,875,000 $3,000,000 -22.6%
+BOURNE
+Numberof Sales 22 18 -18.2%
+YTD Numberof Sales 146 110 -24.7%
+MedianSale Price $610,000 $573,000 -6.1%
+YTD MedianSale Price $572,500 $575,938 0.6%
+BOXBORO
+Numberof Sales 6 3 -50.0%YTD Numberof Sales 24 23 -4.2%
+MedianSale Price $690,000 $960,000 39.1%
+YTD MedianSale Price $943,000 $810,000 -14.1%
+BOXFORD
+Numberof Sales 9 7 -22.2%
+YTD Numberof Sales 65 45 -30.8%
+MedianSale Price $850,000 $1,010,000 18.8%
+YTD MedianSale Price $950,000 $1,005,000 5.8%
+BOYLSTON
+Numberof Sales 6 2 -66.7%
+YTD Numberof Sales 34 16 -52.9%
+MedianSale Price $755,000 $492,500 -34.8%
+YTD MedianSale Price $641,250 $720,000 12.3%
+BRAINTREE
+Numberof Sales 31 22 -29.0%
+YTD Numberof Sales 177 133 -24.9%
+MedianSale Price $725,000 $668,000 -7.9%
+YTD MedianSale Price $650,000 $660,000 1.5%
+BREWSTER
+Numberof Sales 15 13 -13.3%
+YTD Numberof Sales 72 72 0.0%
+MedianSale Price $705,000 $800,000 13.5%
+YTD MedianSale Price $750,000 $717,500 -4.3%
+BRIDGEWATER
+Numberof Sales 22 16 -27.3%
+YTD Numberof Sales 95 89 -6.3%
+MedianSale Price $594,500 $695,000 16.9%
+YTD MedianSale Price $550,000 $640,000 16.4%
+BRIGHTON
+Numberof Sales 4 4 0.0%
+YTD Numberof Sales 21 22 4.8%
+MedianSale Price $940,000 $825,000 -12.2%
+YTD MedianSale Price $892,000 $909,000 1.9%
+BRIMFIELD
+Numberof Sales 8 5 -37.5%
+YTD Numberof Sales 29 26 -10.3%
+MedianSale Price $454,500 $360,000 -20.8%
+YTD MedianSale Price $385,000 $357,450 -7.2%
+BRISTOLCOUNTY
+Numberof Sales 0 0
+YTD Numberof Sales 0 0
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $0
+BROCKTON
+Numberof Sales 74 53 -28.4%
+YTD Numberof Sales 473 327 -30.9%
+MedianSale Price $439,000 $480,000 9.3%
+YTD MedianSale Price $430,000 $450,000 4.7%
+BROOKFIELD
+Numberof Sales 3 3 0.0%
+YTD Numberof Sales 16 19 18.8%MedianSale Price $390,000 $383,000 -1.8%
+YTD MedianSale Price $380,000 $369,000 -2.9%
+BROOKLINE
+Numberof Sales 14 16 14.3%
+YTD Numberof Sales 86 67 -22.1%
+MedianSale Price $2,335,061 $1,663,000 -28.8%
+YTD MedianSale Price $2,521,000 $2,200,000 -12.7%
+BUCKLAND
+Numberof Sales 0 1
+YTD Numberof Sales 12 6 -50.0%
+MedianSale Price $0 $200,000
+YTD MedianSale Price $314,000 $255,000 -18.8%
+BURLINGTON
+Numberof Sales 18 19 5.6%
+YTD Numberof Sales 114 105 -7.9%
+MedianSale Price $817,500 $899,000 10.0%
+YTD MedianSale Price $736,500 $780,000 5.9%
+CAMBRIDGE
+Numberof Sales 14 10 -28.6%
+YTD Numberof Sales 63 53 -15.9%
+MedianSale Price $2,016,500 $1,854,000 -8.1%
+YTD MedianSale Price $1,800,000 $1,810,000 0.6%
+CANTON
+Numberof Sales 21 20 -4.8%
+YTD Numberof Sales 107 89 -16.8%
+MedianSale Price $810,000 $862,750 6.5%
+YTD MedianSale Price $780,000 $810,000 3.8%
+CARLISLE
+Numberof Sales 3 4 33.3%
+YTD Numberof Sales 26 28 7.7%
+MedianSale Price $976,000 $1,289,000 32.1%
+YTD MedianSale Price $1,269,000 $1,277,500 0.7%
+CARVER
+Numberof Sales 9 7 -22.2%
+YTD Numberof Sales 68 46 -32.4%
+MedianSale Price $465,000 $305,000 -34.4%
+YTD MedianSale Price $482,500 $510,000 5.7%
+CENTERVILLE
+Numberof Sales 20 12 -40.0%
+YTD Numberof Sales 116 74 -36.2%
+MedianSale Price $577,500 $615,000 6.5%
+YTD MedianSale Price $572,500 $600,000 4.8%
+CHARLEMONT
+Numberof Sales 0 1
+YTD Numberof Sales 1 4 300.0%
+MedianSale Price $0 $110,000
+YTD MedianSale Price $200,000 $275,000 37.5%
+CHARLESTOWN
+Numberof Sales 7 4 -42.9%
+YTD Numberof Sales 42 32 -23.8%
+MedianSale Price $1,700,000 $1,170,000 -31.2%YTD MedianSale Price $1,408,250 $1,572,500 11.7%
+CHARLTON
+Numberof Sales 15 10 -33.3%
+YTD Numberof Sales 71 60 -15.5%
+MedianSale Price $433,000 $465,500 7.5%
+YTD MedianSale Price $425,000 $453,400 6.7%
+CHATHAM
+Numberof Sales 12 10 -16.7%
+YTD Numberof Sales 90 59 -34.4%
+MedianSale Price $722,500 $1,325,000 83.4%
+YTD MedianSale Price $972,500 $978,000 0.6%
+CHELMSFORD
+Numberof Sales 26 29 11.5%
+YTD Numberof Sales 174 111 -36.2%
+MedianSale Price $635,000 $660,000 3.9%
+YTD MedianSale Price $640,000 $610,000 -4.7%
+CHELSEA
+Numberof Sales 7 3 -57.1%
+YTD Numberof Sales 25 14 -44.0%
+MedianSale Price $501,000 $625,000 24.8%
+YTD MedianSale Price $600,000 $578,000 -3.7%
+CHESHIRE
+Numberof Sales 5 3 -40.0%
+YTD Numberof Sales 23 9 -60.9%
+MedianSale Price $329,023 $435,000 32.2%
+YTD MedianSale Price $293,000 $260,000 -11.3%
+CHESTER
+Numberof Sales 3 1 -66.7%
+YTD Numberof Sales 8 7 -12.5%
+MedianSale Price $185,000 $550,000 197.3%
+YTD MedianSale Price $205,000 $155,000 -24.4%
+CHESTERFIELD
+Numberof Sales 3 2 -33.3%
+YTD Numberof Sales 14 7 -50.0%
+MedianSale Price $400,000 $337,000 -15.8%
+YTD MedianSale Price $412,500 $269,000 -34.8%
+CHICOPEE
+Numberof Sales 34 25 -26.5%
+YTD Numberof Sales 214 189 -11.7%
+MedianSale Price $271,000 $280,000 3.3%
+YTD MedianSale Price $269,250 $275,000 2.1%
+CHILMARK
+Numberof Sales 1 1 0.0%
+YTD Numberof Sales 4 3 -25.0%
+MedianSale Price $2,300,000 $2,875,000 25.0%
+YTD MedianSale Price $2,026,500 $1,400,000 -30.9%
+CLARKSBURG
+Numberof Sales 0 2
+YTD Numberof Sales 8 9 12.5%
+MedianSale Price $0 $202,750
+YTD MedianSale Price $309,500 $235,000 -24.1%CLINTON
+Numberof Sales 14 7 -50.0%
+YTD Numberof Sales 52 39 -25.0%
+MedianSale Price $386,500 $408,000 5.6%
+YTD MedianSale Price $385,000 $425,000 10.4%
+COHASSET
+Numberof Sales 7 9 28.6%
+YTD Numberof Sales 50 39 -22.0%
+MedianSale Price $1,925,000 $1,550,000 -19.5%
+YTD MedianSale Price $1,375,000 $1,550,000 12.7%
+COLRAIN
+Numberof Sales 1 2 100.0%
+YTD Numberof Sales 7 7 0.0%
+MedianSale Price $600,000 $497,500 -17.1%
+YTD MedianSale Price $260,000 $375,000 44.2%
+CONCORD
+Numberof Sales 15 15 0.0%
+YTD Numberof Sales 98 83 -15.3%
+MedianSale Price $1,350,000 $1,510,000 11.9%
+YTD MedianSale Price $1,526,000 $1,478,000 -3.1%
+CONWAY
+Numberof Sales 2 3 50.0%
+YTD Numberof Sales 7 12 71.4%
+MedianSale Price $275,000 $440,000 60.0%
+YTD MedianSale Price $445,000 $346,250 -22.2%
+COTUIT
+Numberof Sales 9 2 -77.8%
+YTD Numberof Sales 41 30 -26.8%
+MedianSale Price $725,000 $551,250 -24.0%
+YTD MedianSale Price $670,000 $697,000 4.0%
+CUMMINGTON
+Numberof Sales 1 2 100.0%
+YTD Numberof Sales 5 5 0.0%
+MedianSale Price $280,000 $478,050 70.7%
+YTD MedianSale Price $175,000 $320,000 82.9%
+DALTON
+Numberof Sales 5 3 -40.0%
+YTD Numberof Sales 35 23 -34.3%
+MedianSale Price $370,000 $282,000 -23.8%
+YTD MedianSale Price $253,500 $330,000 30.2%
+DANVERS
+Numberof Sales 18 15 -16.7%
+YTD Numberof Sales 121 94 -22.3%
+MedianSale Price $622,500 $699,900 12.4%
+YTD MedianSale Price $623,700 $656,825 5.3%
+DARTMOUTH
+Numberof Sales 30 14 -53.3%
+YTD Numberof Sales 155 119 -23.2%
+MedianSale Price $550,000 $490,000 -10.9%
+YTD MedianSale Price $485,000 $440,000 -9.3%
+DEDHAMNumberof Sales 23 19 -17.4%
+YTD Numberof Sales 168 121 -28.0%
+MedianSale Price $730,000 $755,000 3.4%
+YTD MedianSale Price $713,000 $684,000 -4.1%
+DEERFIELD
+Numberof Sales 2 1 -50.0%
+YTD Numberof Sales 19 13 -31.6%
+MedianSale Price $605,000 $300,000 -50.4%
+YTD MedianSale Price $395,000 $410,000 3.8%
+DENNIS
+Numberof Sales 27 14 -48.1%
+YTD Numberof Sales 178 108 -39.3%
+MedianSale Price $550,000 $739,500 34.5%
+YTD MedianSale Price $550,050 $665,750 21.0%
+DEVENS
+Numberof Sales 0 0
+YTD Numberof Sales 0 1
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $730,000
+DIGHTON
+Numberof Sales 11 4 -63.6%
+YTD Numberof Sales 52 34 -34.6%
+MedianSale Price $530,000 $578,000 9.1%
+YTD MedianSale Price $456,500 $492,500 7.9%
+DORCHESTER
+Numberof Sales 13 12 -7.7%
+YTD Numberof Sales 83 63 -24.1%
+MedianSale Price $887,000 $724,500 -18.3%
+YTD MedianSale Price $715,000 $750,000 4.9%
+DOUGLAS
+Numberof Sales 12 7 -41.7%
+YTD Numberof Sales 57 37 -35.1%
+MedianSale Price $515,500 $565,000 9.6%
+YTD MedianSale Price $510,000 $525,000 2.9%
+DOVER
+Numberof Sales 11 10 -9.1%
+YTD Numberof Sales 61 37 -39.3%
+MedianSale Price $1,325,000 $1,815,000 37.0%
+YTD MedianSale Price $1,524,000 $1,786,093 17.2%
+DRACUT
+Numberof Sales 19 21 10.5%
+YTD Numberof Sales 160 107 -33.1%
+MedianSale Price $545,000 $535,000 -1.8%
+YTD MedianSale Price $499,800 $500,000 0.0%
+DUDLEY
+Numberof Sales 7 10 42.9%
+YTD Numberof Sales 58 73 25.9%
+MedianSale Price $345,000 $412,500 19.6%
+YTD MedianSale Price $377,500 $388,050 2.8%
+DUKESCOUNTY
+Numberof Sales 0 0YTD Numberof Sales 0 0
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $0
+DUNSTABLE
+Numberof Sales 5 2 -60.0%
+YTD Numberof Sales 21 11 -47.6%
+MedianSale Price $925,000 $912,500 -1.4%
+YTD MedianSale Price $700,000 $900,000 28.6%
+DUXBURY
+Numberof Sales 22 9 -59.1%
+YTD Numberof Sales 98 70 -28.6%
+MedianSale Price $940,500 $1,075,000 14.3%
+YTD MedianSale Price $927,500 $1,050,000 13.2%
+EASTBOSTON
+Numberof Sales 3 2 -33.3%
+YTD Numberof Sales 20 20 0.0%
+MedianSale Price $725,000 $792,500 9.3%
+YTD MedianSale Price $685,500 $662,500 -3.4%
+EASTBRIDGEWATER
+Numberof Sales 16 15 -6.3%
+YTD Numberof Sales 69 64 -7.2%
+MedianSale Price $497,500 $599,000 20.4%
+YTD MedianSale Price $490,000 $502,500 2.6%
+EASTBROOKFIELD
+Numberof Sales 4 2 -50.0%
+YTD Numberof Sales 14 13 -7.1%
+MedianSale Price $312,500 $326,250 4.4%
+YTD MedianSale Price $327,500 $300,000 -8.4%
+EASTLONGMEADOW
+Numberof Sales 16 22 37.5%
+YTD Numberof Sales 129 102 -20.9%
+MedianSale Price $337,500 $347,200 2.9%
+YTD MedianSale Price $335,000 $365,200 9.0%
+EASTHAM
+Numberof Sales 13 10 -23.1%
+YTD Numberof Sales 68 70 2.9%
+MedianSale Price $687,500 $692,500 0.7%
+YTD MedianSale Price $713,000 $757,000 6.2%
+EASTHAMPTON
+Numberof Sales 14 13 -7.1%
+YTD Numberof Sales 79 55 -30.4%
+MedianSale Price $394,625 $396,000 0.3%
+YTD MedianSale Price $385,000 $361,000 -6.2%
+EASTON
+Numberof Sales 17 16 -5.9%
+YTD Numberof Sales 119 93 -21.8%
+MedianSale Price $823,000 $599,950 -27.1%
+YTD MedianSale Price $675,000 $630,000 -6.7%
+EDGARTOWN
+Numberof Sales 3 6 100.0%
+YTD Numberof Sales 34 32 -5.9%MedianSale Price $1,275,000 $1,093,750 -14.2%
+YTD MedianSale Price $1,467,000 $1,352,500 -7.8%
+EGREMONT
+Numberof Sales 6 2 -66.7%
+YTD Numberof Sales 21 9 -57.1%
+MedianSale Price $743,500 $510,000 -31.4%
+YTD MedianSale Price $782,000 $507,000 -35.2%
+ERVING
+Numberof Sales 1 1 0.0%
+YTD Numberof Sales 7 6 -14.3%
+MedianSale Price $500,000 $110,000 -78.0%
+YTD MedianSale Price $210,000 $306,250 45.8%
+ESSEX
+Numberof Sales 5 5 0.0%
+YTD Numberof Sales 11 10 -9.1%
+MedianSale Price $704,650 $925,000 31.3%
+YTD MedianSale Price $704,650 $862,500 22.4%
+ESSEXCOUNTY
+Numberof Sales 0 0
+YTD Numberof Sales 0 0
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $0
+EVERETT
+Numberof Sales 9 6 -33.3%
+YTD Numberof Sales 49 39 -20.4%
+MedianSale Price $610,000 $695,000 13.9%
+YTD MedianSale Price $607,000 $610,200 0.5%
+FAIRHAVEN
+Numberof Sales 22 16 -27.3%
+YTD Numberof Sales 103 77 -25.2%
+MedianSale Price $432,000 $467,750 8.3%
+YTD MedianSale Price $430,000 $439,900 2.3%
+FALLRIVER
+Numberof Sales 31 22 -29.0%
+YTD Numberof Sales 203 162 -20.2%
+MedianSale Price $360,000 $389,250 8.1%
+YTD MedianSale Price $365,000 $385,000 5.5%
+FALMOUTH
+Numberof Sales 40 32 -20.0%
+YTD Numberof Sales 287 225 -21.6%
+MedianSale Price $631,000 $727,000 15.2%
+YTD MedianSale Price $650,000 $665,000 2.3%
+FITCHBURG
+Numberof Sales 38 23 -39.5%
+YTD Numberof Sales 224 172 -23.2%
+MedianSale Price $370,000 $367,000 -0.8%
+YTD MedianSale Price $322,950 $350,000 8.4%
+FLORIDA
+Numberof Sales 1 1 0.0%
+YTD Numberof Sales 6 3 -50.0%
+MedianSale Price $183,000 $249,900 36.6%YTD MedianSale Price $214,500 $249,900 16.5%
+FOXBORO
+Numberof Sales 22 9 -59.1%
+YTD Numberof Sales 91 60 -34.1%
+MedianSale Price $598,651 $800,000 33.6%
+YTD MedianSale Price $610,000 $650,000 6.6%
+FRAMINGHAM
+Numberof Sales 68 54 -20.6%
+YTD Numberof Sales 334 206 -38.3%
+MedianSale Price $622,500 $650,000 4.4%
+YTD MedianSale Price $614,000 $632,500 3.0%
+FRANKLIN
+Numberof Sales 27 28 3.7%
+YTD Numberof Sales 164 134 -18.3%
+MedianSale Price $605,000 $710,000 17.4%
+YTD MedianSale Price $620,000 $643,000 3.7%
+FRANKLINCOUNTY
+Numberof Sales 0 0
+YTD Numberof Sales 0 0
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $0
+FREETOWN
+Numberof Sales 7 10 42.9%
+YTD Numberof Sales 52 45 -13.5%
+MedianSale Price $458,000 $451,250 -1.5%
+YTD MedianSale Price $492,450 $473,500 -3.8%
+GARDNER
+Numberof Sales 22 19 -13.6%
+YTD Numberof Sales 121 94 -22.3%
+MedianSale Price $335,000 $343,000 2.4%
+YTD MedianSale Price $330,000 $331,250 0.4%
+GEORGETOWN
+Numberof Sales 7 5 -28.6%
+YTD Numberof Sales 48 30 -37.5%
+MedianSale Price $725,000 $930,000 28.3%
+YTD MedianSale Price $625,000 $680,000 8.8%
+GILL
+Numberof Sales 0 1
+YTD Numberof Sales 7 5 -28.6%
+MedianSale Price $0 $295,000
+YTD MedianSale Price $400,000 $335,000 -16.3%
+GLOUCESTER
+Numberof Sales 23 13 -43.5%
+YTD Numberof Sales 93 73 -21.5%
+MedianSale Price $750,000 $652,000 -13.1%
+YTD MedianSale Price $610,000 $565,000 -7.4%
+GOSHEN
+Numberof Sales 3 2 -33.3%
+YTD Numberof Sales 8 4 -50.0%
+MedianSale Price $415,700 $412,000 -0.9%
+YTD MedianSale Price $385,000 $372,500 -3.2%GOSNOLD
+Numberof Sales 0 0
+YTD Numberof Sales 0 0
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $0
+GRAFTON
+Numberof Sales 25 11 -56.0%
+YTD Numberof Sales 107 68 -36.4%
+MedianSale Price $559,900 $602,500 7.6%
+YTD MedianSale Price $550,000 $617,500 12.3%
+GRANBY
+Numberof Sales 8 4 -50.0%
+YTD Numberof Sales 42 22 -47.6%
+MedianSale Price $320,000 $287,450 -10.2%
+YTD MedianSale Price $338,625 $285,500 -15.7%
+GRANVILLE
+Numberof Sales 2 2 0.0%
+YTD Numberof Sales 6 9 50.0%
+MedianSale Price $307,000 $400,000 30.3%
+YTD MedianSale Price $432,500 $290,000 -32.9%
+GREATBARRINGTON
+Numberof Sales 5 4 -20.0%
+YTD Numberof Sales 57 24 -57.9%
+MedianSale Price $476,500 $582,500 22.2%
+YTD MedianSale Price $475,000 $507,500 6.8%
+GREENFIELD
+Numberof Sales 24 18 -25.0%
+YTD Numberof Sales 90 74 -17.8%
+MedianSale Price $268,500 $288,950 7.6%
+YTD MedianSale Price $270,000 $279,750 3.6%
+GROTON
+Numberof Sales 16 12 -25.0%
+YTD Numberof Sales 69 51 -26.1%
+MedianSale Price $587,500 $687,500 17.0%
+YTD MedianSale Price $742,000 $760,000 2.4%
+GROVELAND
+Numberof Sales 10 6 -40.0%
+YTD Numberof Sales 39 24 -38.5%
+MedianSale Price $562,500 $592,500 5.3%
+YTD MedianSale Price $525,000 $606,000 15.4%
+HADLEY
+Numberof Sales 3 1 -66.7%
+YTD Numberof Sales 31 23 -25.8%
+MedianSale Price $385,000 $615,000 59.7%
+YTD MedianSale Price $484,000 $550,000 13.6%
+HALIFAX
+Numberof Sales 11 4 -63.6%
+YTD Numberof Sales 55 31 -43.6%
+MedianSale Price $435,000 $555,000 27.6%
+YTD MedianSale Price $460,000 $530,000 15.2%
+HAMILTONNumberof Sales 10 8 -20.0%
+YTD Numberof Sales 52 42 -19.2%
+MedianSale Price $680,500 $697,500 2.5%
+YTD MedianSale Price $850,000 $729,000 -14.2%
+HAMPDEN
+Numberof Sales 4 5 25.0%
+YTD Numberof Sales 28 37 32.1%
+MedianSale Price $291,250 $388,500 33.4%
+YTD MedianSale Price $335,000 $370,000 10.4%
+HAMPDENCOUNTY
+Numberof Sales 0 0
+YTD Numberof Sales 0 0
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $0
+HAMPSHIRECOUNTY
+Numberof Sales 0 0
+YTD Numberof Sales 0 0
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $0
+HANCOCK
+Numberof Sales 2 0 -100.0%
+YTD Numberof Sales 4 0 -100.0%
+MedianSale Price $338,750 $0 -100.0%
+YTD MedianSale Price $424,250 $0 -100.0%
+HANOVER
+Numberof Sales 26 10 -61.5%
+YTD Numberof Sales 89 63 -29.2%
+MedianSale Price $787,500 $761,250 -3.3%
+YTD MedianSale Price $705,000 $740,000 5.0%
+HANSON
+Numberof Sales 7 7 0.0%
+YTD Numberof Sales 49 46 -6.1%
+MedianSale Price $650,000 $600,000 -7.7%
+YTD MedianSale Price $520,000 $470,000 -9.6%
+HARDWICK
+Numberof Sales 2 2 0.0%
+YTD Numberof Sales 15 5 -66.7%
+MedianSale Price $301,500 $318,600 5.7%
+YTD MedianSale Price $315,000 $345,000 9.5%
+HARVARD
+Numberof Sales 10 8 -20.0%
+YTD Numberof Sales 35 27 -22.9%
+MedianSale Price $825,500 $920,000 11.4%
+YTD MedianSale Price $987,000 $930,000 -5.8%
+HARWICH
+Numberof Sales 18 12 -33.3%
+YTD Numberof Sales 110 97 -11.8%
+MedianSale Price $786,450 $632,500 -19.6%
+YTD MedianSale Price $675,000 $665,000 -1.5%
+HATFIELD
+Numberof Sales 1 2 100.0%YTD Numberof Sales 12 6 -50.0%
+MedianSale Price $359,000 $447,500 24.7%
+YTD MedianSale Price $327,500 $412,500 26.0%
+HAVERHILL
+Numberof Sales 32 31 -3.1%
+YTD Numberof Sales 232 174 -25.0%
+MedianSale Price $562,500 $525,000 -6.7%
+YTD MedianSale Price $500,000 $510,500 2.1%
+HAWLEY
+Numberof Sales 0 1
+YTD Numberof Sales 5 2 -60.0%
+MedianSale Price $0 $410,000
+YTD MedianSale Price $450,000 $307,500 -31.7%
+HEATH
+Numberof Sales 2 0 -100.0%
+YTD Numberof Sales 6 4 -33.3%
+MedianSale Price $240,000 $0 -100.0%
+YTD MedianSale Price $170,000 $190,000 11.8%
+HINGHAM
+Numberof Sales 18 24 33.3%
+YTD Numberof Sales 170 117 -31.2%
+MedianSale Price $1,382,500 $1,097,500 -20.6%
+YTD MedianSale Price $1,300,000 $1,185,000 -8.8%
+HINSDALE
+Numberof Sales 3 2 -33.3%
+YTD Numberof Sales 15 7 -53.3%
+MedianSale Price $265,000 $292,500 10.4%
+YTD MedianSale Price $317,000 $330,000 4.1%
+HOLBROOK
+Numberof Sales 14 11 -21.4%
+YTD Numberof Sales 64 80 25.0%
+MedianSale Price $499,500 $520,000 4.1%
+YTD MedianSale Price $476,600 $471,000 -1.2%
+HOLDEN
+Numberof Sales 27 13 -51.9%
+YTD Numberof Sales 133 70 -47.4%
+MedianSale Price $451,000 $555,500 23.2%
+YTD MedianSale Price $435,000 $525,000 20.7%
+HOLLAND
+Numberof Sales 4 3 -25.0%
+YTD Numberof Sales 26 20 -23.1%
+MedianSale Price $250,500 $310,000 23.8%
+YTD MedianSale Price $310,000 $357,500 15.3%
+HOLLISTON
+Numberof Sales 31 14 -54.8%
+YTD Numberof Sales 137 84 -38.7%
+MedianSale Price $715,000 $875,000 22.4%
+YTD MedianSale Price $655,000 $700,000 6.9%
+HOLYOKE
+Numberof Sales 19 15 -21.1%
+YTD Numberof Sales 132 85 -35.6%MedianSale Price $273,000 $325,000 19.0%
+YTD MedianSale Price $260,000 $285,000 9.6%
+HOPEDALE
+Numberof Sales 7 6 -14.3%
+YTD Numberof Sales 35 26 -25.7%
+MedianSale Price $750,000 $735,000 -2.0%
+YTD MedianSale Price $510,000 $535,000 4.9%
+HOPKINTON
+Numberof Sales 28 17 -39.3%
+YTD Numberof Sales 108 81 -25.0%
+MedianSale Price $1,159,000 $1,125,000 -2.9%
+YTD MedianSale Price $985,000 $865,000 -12.2%
+HUBBARDSTON
+Numberof Sales 8 2 -75.0%
+YTD Numberof Sales 26 15 -42.3%
+MedianSale Price $416,950 $385,750 -7.5%
+YTD MedianSale Price $397,507 $385,000 -3.1%
+HUDSON
+Numberof Sales 18 12 -33.3%
+YTD Numberof Sales 82 62 -24.4%
+MedianSale Price $553,250 $642,500 16.1%
+YTD MedianSale Price $550,000 $596,750 8.5%
+HULL
+Numberof Sales 13 8 -38.5%
+YTD Numberof Sales 71 54 -23.9%
+MedianSale Price $625,000 $625,000 0.0%
+YTD MedianSale Price $567,000 $626,000 10.4%
+HUNTINGTON
+Numberof Sales 3 3 0.0%
+YTD Numberof Sales 17 11 -35.3%
+MedianSale Price $180,000 $335,000 86.1%
+YTD MedianSale Price $279,000 $282,500 1.3%
+HYANNIS
+Numberof Sales 13 14 7.7%
+YTD Numberof Sales 125 71 -43.2%
+MedianSale Price $425,000 $526,250 23.8%
+YTD MedianSale Price $460,000 $505,000 9.8%
+HYDEPARK
+Numberof Sales 11 13 18.2%
+YTD Numberof Sales 77 79 2.6%
+MedianSale Price $589,000 $625,000 6.1%
+YTD MedianSale Price $620,000 $600,000 -3.2%
+IPSWICH
+Numberof Sales 11 10 -9.1%
+YTD Numberof Sales 71 48 -32.4%
+MedianSale Price $805,000 $747,500 -7.1%
+YTD MedianSale Price $660,000 $765,000 15.9%
+JAMAICAPLAIN
+Numberof Sales 6 9 50.0%
+YTD Numberof Sales 45 40 -11.1%
+MedianSale Price $997,500 $985,000 -1.3%YTD MedianSale Price $1,175,000 $1,140,500 -2.9%
+KINGSTON
+Numberof Sales 13 4 -69.2%
+YTD Numberof Sales 71 56 -21.1%
+MedianSale Price $620,000 $635,000 2.4%
+YTD MedianSale Price $540,000 $591,000 9.4%
+LAKEVILLE
+Numberof Sales 17 10 -41.2%
+YTD Numberof Sales 60 80 33.3%
+MedianSale Price $619,900 $557,000 -10.1%
+YTD MedianSale Price $560,000 $552,500 -1.3%
+LANCASTER
+Numberof Sales 10 11 10.0%
+YTD Numberof Sales 49 40 -18.4%
+MedianSale Price $577,500 $520,000 -10.0%
+YTD MedianSale Price $450,000 $472,000 4.9%
+LANESBORO
+Numberof Sales 7 4 -42.9%
+YTD Numberof Sales 28 17 -39.3%
+MedianSale Price $275,000 $240,450 -12.6%
+YTD MedianSale Price $255,000 $272,900 7.0%
+LAWRENCE
+Numberof Sales 24 7 -70.8%
+YTD Numberof Sales 127 62 -51.2%
+MedianSale Price $420,000 $470,000 11.9%
+YTD MedianSale Price $415,000 $447,500 7.8%
+LEE
+Numberof Sales 6 8 33.3%
+YTD Numberof Sales 26 30 15.4%
+MedianSale Price $349,500 $365,000 4.4%
+YTD MedianSale Price $349,500 $295,000 -15.6%
+LEICESTER
+Numberof Sales 17 12 -29.4%
+YTD Numberof Sales 74 59 -20.3%
+MedianSale Price $367,000 $425,000 15.8%
+YTD MedianSale Price $360,000 $375,000 4.2%
+LENOX
+Numberof Sales 3 4 33.3%
+YTD Numberof Sales 38 20 -47.4%
+MedianSale Price $385,000 $644,500 67.4%
+YTD MedianSale Price $555,000 $655,250 18.1%
+LEOMINSTER
+Numberof Sales 39 33 -15.4%
+YTD Numberof Sales 200 126 -37.0%
+MedianSale Price $450,000 $453,000 0.7%
+YTD MedianSale Price $395,251 $436,750 10.5%
+LEVERETT
+Numberof Sales 0 2
+YTD Numberof Sales 7 7 0.0%
+MedianSale Price $0 $416,000
+YTD MedianSale Price $560,000 $455,000 -18.8%LEXINGTON
+Numberof Sales 39 32 -17.9%
+YTD Numberof Sales 194 171 -11.9%
+MedianSale Price $1,750,000 $1,740,800 -0.5%
+YTD MedianSale Price $1,602,500 $1,699,000 6.0%
+LEYDEN
+Numberof Sales 1 1 0.0%
+YTD Numberof Sales 3 7 133.3%
+MedianSale Price $935,000 $320,000 -65.8%
+YTD MedianSale Price $477,000 $325,000 -31.9%
+LINCOLN
+Numberof Sales 4 4 0.0%
+YTD Numberof Sales 30 25 -16.7%
+MedianSale Price $1,851,000 $1,080,500 -41.6%
+YTD MedianSale Price $1,794,000 $1,407,500 -21.5%
+LITTLETON
+Numberof Sales 13 9 -30.8%
+YTD Numberof Sales 65 50 -23.1%
+MedianSale Price $685,000 $840,000 22.6%
+YTD MedianSale Price $650,000 $708,500 9.0%
+LONGMEADOW
+Numberof Sales 28 26 -7.1%
+YTD Numberof Sales 129 107 -17.1%
+MedianSale Price $420,500 $565,500 34.5%
+YTD MedianSale Price $450,000 $470,000 4.4%
+LOWELL
+Numberof Sales 50 28 -44.0%
+YTD Numberof Sales 291 200 -31.3%
+MedianSale Price $460,723 $469,000 1.8%
+YTD MedianSale Price $445,000 $435,000 -2.2%
+LUDLOW
+Numberof Sales 23 16 -30.4%
+YTD Numberof Sales 114 102 -10.5%
+MedianSale Price $307,000 $305,000 -0.7%
+YTD MedianSale Price $299,312 $304,500 1.7%
+LUNENBURG
+Numberof Sales 18 10 -44.4%
+YTD Numberof Sales 81 56 -30.9%
+MedianSale Price $402,500 $555,000 37.9%
+YTD MedianSale Price $430,000 $487,450 13.4%
+LYNN
+Numberof Sales 46 23 -50.0%
+YTD Numberof Sales 286 200 -30.1%
+MedianSale Price $535,000 $540,000 0.9%
+YTD MedianSale Price $515,000 $521,250 1.2%
+LYNNFIELD
+Numberof Sales 18 9 -50.0%
+YTD Numberof Sales 73 48 -34.2%
+MedianSale Price $942,500 $930,000 -1.3%
+YTD MedianSale Price $985,000 $927,500 -5.8%
+MALDENNumberof Sales 26 16 -38.5%
+YTD Numberof Sales 141 81 -42.6%
+MedianSale Price $632,500 $677,500 7.1%
+YTD MedianSale Price $630,000 $665,000 5.6%
+MANCHESTER
+Numberof Sales 2 6 200.0%
+YTD Numberof Sales 35 22 -37.1%
+MedianSale Price $3,025,000 $980,000 -67.6%
+YTD MedianSale Price $1,200,000 $1,038,000 -13.5%
+MANSFIELD
+Numberof Sales 20 11 -45.0%
+YTD Numberof Sales 97 71 -26.8%
+MedianSale Price $712,500 $640,000 -10.2%
+YTD MedianSale Price $650,000 $700,000 7.7%
+MARBLEHEAD
+Numberof Sales 25 18 -28.0%
+YTD Numberof Sales 115 104 -9.6%
+MedianSale Price $855,000 $1,125,000 31.6%
+YTD MedianSale Price $820,000 $960,000 17.1%
+MARION
+Numberof Sales 6 5 -16.7%
+YTD Numberof Sales 36 31 -13.9%
+MedianSale Price $805,500 $815,000 1.2%
+YTD MedianSale Price $618,000 $660,000 6.8%
+MARLBOROUGH
+Numberof Sales 31 25 -19.4%
+YTD Numberof Sales 148 122 -17.6%
+MedianSale Price $567,000 $520,000 -8.3%
+YTD MedianSale Price $525,000 $543,950 3.6%
+MARSHFIELD
+Numberof Sales 29 29 0.0%
+YTD Numberof Sales 149 135 -9.4%
+MedianSale Price $639,000 $735,000 15.0%
+YTD MedianSale Price $645,000 $700,000 8.5%
+MARSTONSMILLS
+Numberof Sales 6 5 -16.7%
+YTD Numberof Sales 55 37 -32.7%
+MedianSale Price $751,000 $565,000 -24.8%
+YTD MedianSale Price $630,000 $650,000 3.2%
+MASHPEE
+Numberof Sales 15 18 20.0%
+YTD Numberof Sales 144 131 -9.0%
+MedianSale Price $695,000 $695,000 0.0%
+YTD MedianSale Price $645,000 $668,367 3.6%
+MATTAPAN
+Numberof Sales 4 2 -50.0%
+YTD Numberof Sales 25 17 -32.0%
+MedianSale Price $529,800 $648,500 22.4%
+YTD MedianSale Price $530,000 $510,000 -3.8%
+MATTAPOISETT
+Numberof Sales 7 9 28.6%YTD Numberof Sales 46 44 -4.3%
+MedianSale Price $640,000 $555,000 -13.3%
+YTD MedianSale Price $600,000 $610,000 1.7%
+MAYNARD
+Numberof Sales 13 10 -23.1%
+YTD Numberof Sales 71 43 -39.4%
+MedianSale Price $600,000 $647,500 7.9%
+YTD MedianSale Price $525,000 $585,000 11.4%
+MEDFIELD
+Numberof Sales 17 15 -11.8%
+YTD Numberof Sales 91 65 -28.6%
+MedianSale Price $1,058,000 $975,000 -7.8%
+YTD MedianSale Price $1,058,000 $881,500 -16.7%
+MEDFORD
+Numberof Sales 34 31 -8.8%
+YTD Numberof Sales 178 144 -19.1%
+MedianSale Price $855,000 $780,000 -8.8%
+YTD MedianSale Price $840,500 $767,000 -8.7%
+MEDWAY
+Numberof Sales 17 7 -58.8%
+YTD Numberof Sales 72 57 -20.8%
+MedianSale Price $550,000 $680,000 23.6%
+YTD MedianSale Price $638,750 $640,000 0.2%
+MELROSE
+Numberof Sales 32 13 -59.4%
+YTD Numberof Sales 155 98 -36.8%
+MedianSale Price $812,500 $1,000,000 23.1%
+YTD MedianSale Price $843,000 $856,500 1.6%
+MENDON
+Numberof Sales 10 7 -30.0%
+YTD Numberof Sales 46 42 -8.7%
+MedianSale Price $650,000 $720,000 10.8%
+YTD MedianSale Price $617,500 $652,500 5.7%
+MERRIMAC
+Numberof Sales 7 4 -42.9%
+YTD Numberof Sales 34 23 -32.4%
+MedianSale Price $829,900 $554,500 -33.2%
+YTD MedianSale Price $655,000 $560,000 -14.5%
+METHUEN
+Numberof Sales 44 37 -15.9%
+YTD Numberof Sales 231 180 -22.1%
+MedianSale Price $490,000 $550,000 12.2%
+YTD MedianSale Price $500,000 $517,500 3.5%
+MIDDLEBORO
+Numberof Sales 19 13 -31.6%
+YTD Numberof Sales 132 82 -37.9%
+MedianSale Price $480,000 $560,000 16.7%
+YTD MedianSale Price $475,500 $499,950 5.1%
+MIDDLEFIELD
+Numberof Sales 0 1
+YTD Numberof Sales 2 2 0.0%MedianSale Price $0 $230,000
+YTD MedianSale Price $286,500 $205,000 -28.4%
+MIDDLESEXCOUNTY
+Numberof Sales 0 0
+YTD Numberof Sales 0 0
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $0
+MIDDLETON
+Numberof Sales 6 5 -16.7%
+YTD Numberof Sales 34 32 -5.9%
+MedianSale Price $1,075,000 $1,475,000 37.2%
+YTD MedianSale Price $774,950 $1,063,250 37.2%
+MILFORD
+Numberof Sales 22 21 -4.5%
+YTD Numberof Sales 129 106 -17.8%
+MedianSale Price $516,000 $588,000 14.0%
+YTD MedianSale Price $505,000 $508,000 0.6%
+MILLBURY
+Numberof Sales 12 11 -8.3%
+YTD Numberof Sales 76 64 -15.8%
+MedianSale Price $331,750 $550,000 65.8%
+YTD MedianSale Price $399,950 $440,000 10.0%
+MILLIS
+Numberof Sales 10 9 -10.0%
+YTD Numberof Sales 59 36 -39.0%
+MedianSale Price $610,000 $622,000 2.0%
+YTD MedianSale Price $596,000 $619,750 4.0%
+MILLVILLE
+Numberof Sales 4 2 -50.0%
+YTD Numberof Sales 21 15 -28.6%
+MedianSale Price $470,000 $432,500 -8.0%
+YTD MedianSale Price $425,000 $375,000 -11.8%
+MILTON
+Numberof Sales 31 22 -29.0%
+YTD Numberof Sales 170 104 -38.8%
+MedianSale Price $950,000 $1,082,500 13.9%
+YTD MedianSale Price $902,500 $928,063 2.8%
+MONROE
+Numberof Sales 1 0 -100.0%
+YTD Numberof Sales 1 0 -100.0%
+MedianSale Price $75,000 $0 -100.0%
+YTD MedianSale Price $75,000 $0 -100.0%
+MONSON
+Numberof Sales 11 7 -36.4%
+YTD Numberof Sales 46 48 4.3%
+MedianSale Price $282,000 $298,000 5.7%
+YTD MedianSale Price $276,000 $300,500 8.9%
+MONTAGUE
+Numberof Sales 6 5 -16.7%
+YTD Numberof Sales 35 28 -20.0%
+MedianSale Price $286,000 $301,790 5.5%YTD MedianSale Price $267,000 $258,500 -3.2%
+MONTEREY
+Numberof Sales 3 2 -33.3%
+YTD Numberof Sales 13 10 -23.1%
+MedianSale Price $850,000 $1,097,500 29.1%
+YTD MedianSale Price $825,000 $987,500 19.7%
+MONTGOMERY
+Numberof Sales 2 0 -100.0%
+YTD Numberof Sales 5 3 -40.0%
+MedianSale Price $440,000 $0 -100.0%
+YTD MedianSale Price $370,000 $380,000 2.7%
+MT WASHINGTON
+Numberof Sales 1 0 -100.0%
+YTD Numberof Sales 3 2 -33.3%
+MedianSale Price $950,000 $0 -100.0%
+YTD MedianSale Price $878,000 $918,500 4.6%
+NAHANT
+Numberof Sales 3 5 66.7%
+YTD Numberof Sales 15 24 60.0%
+MedianSale Price $900,000 $1,253,000 39.2%
+YTD MedianSale Price $1,000,000 $930,076 -7.0%
+NANTUCKET
+Numberof Sales 11 8 -27.3%
+YTD Numberof Sales 76 48 -36.8%
+MedianSale Price $3,000,000 $2,497,500 -16.8%
+YTD MedianSale Price $2,195,000 $2,265,000 3.2%
+NANTUCKETCOUNTY
+Numberof Sales 0 0
+YTD Numberof Sales 0 0
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $0
+NATICK
+Numberof Sales 28 28 0.0%
+YTD Numberof Sales 184 141 -23.4%
+MedianSale Price $850,000 $945,500 11.2%
+YTD MedianSale Price $845,000 $855,000 1.2%
+NEEDHAM
+Numberof Sales 31 20 -35.5%
+YTD Numberof Sales 210 144 -31.4%
+MedianSale Price $1,650,000 $1,355,000 -17.9%
+YTD MedianSale Price $1,456,000 $1,325,000 -9.0%
+NEWASHFORD
+Numberof Sales 0 0
+YTD Numberof Sales 2 0 -100.0%
+MedianSale Price $0 $0
+YTD MedianSale Price $263,750 $0 -100.0%
+NEWBEDFORD
+Numberof Sales 57 35 -38.6%
+YTD Numberof Sales 319 254 -20.4%
+MedianSale Price $370,000 $375,000 1.4%
+YTD MedianSale Price $345,000 $355,000 2.9%NEWBRAINTREE
+Numberof Sales 1 1 0.0%
+YTD Numberof Sales 5 3 -40.0%
+MedianSale Price $583,500 $387,000 -33.7%
+YTD MedianSale Price $306,000 $387,000 26.5%
+NEWMARLBORO
+Numberof Sales 0 2
+YTD Numberof Sales 9 14 55.6%
+MedianSale Price $0 $1,067,250
+YTD MedianSale Price $495,000 $571,162 15.4%
+NEWSALEM
+Numberof Sales 2 2 0.0%
+YTD Numberof Sales 6 6 0.0%
+MedianSale Price $378,250 $265,000 -29.9%
+YTD MedianSale Price $306,500 $271,250 -11.5%
+NEWBURY
+Numberof Sales 13 5 -61.5%
+YTD Numberof Sales 39 24 -38.5%
+MedianSale Price $810,000 $755,000 -6.8%
+YTD MedianSale Price $828,000 $826,000 -0.2%
+NEWBURYPORT
+Numberof Sales 23 21 -8.7%
+YTD Numberof Sales 88 71 -19.3%
+MedianSale Price $1,050,000 $836,900 -20.3%
+YTD MedianSale Price $885,000 $810,000 -8.5%
+NEWTON
+Numberof Sales 67 61 -9.0%
+YTD Numberof Sales 377 294 -22.0%
+MedianSale Price $1,720,000 $1,825,000 6.1%
+YTD MedianSale Price $1,650,000 $1,705,000 3.3%
+NORFOLK
+Numberof Sales 14 12 -14.3%
+YTD Numberof Sales 74 48 -35.1%
+MedianSale Price $825,000 $771,000 -6.5%
+YTD MedianSale Price $775,250 $744,950 -3.9%
+NORFOLKCOUNTY
+Numberof Sales 0 0
+YTD Numberof Sales 0 0
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $0
+NORTHADAMS
+Numberof Sales 9 17 88.9%
+YTD Numberof Sales 48 59 22.9%
+MedianSale Price $207,000 $300,000 44.9%
+YTD MedianSale Price $193,250 $244,000 26.3%
+NORTHANDOVER
+Numberof Sales 31 23 -25.8%
+YTD Numberof Sales 140 108 -22.9%
+MedianSale Price $901,112 $770,000 -14.6%
+YTD MedianSale Price $872,500 $762,500 -12.6%
+NORTHATTLEBORONumberof Sales 15 20 33.3%
+YTD Numberof Sales 127 111 -12.6%
+MedianSale Price $599,000 $555,000 -7.3%
+YTD MedianSale Price $520,000 $535,000 2.9%
+NORTHBROOKFIELD
+Numberof Sales 2 0 -100.0%
+YTD Numberof Sales 23 19 -17.4%
+MedianSale Price $293,000 $0 -100.0%
+YTD MedianSale Price $325,000 $319,900 -1.6%
+NORTHREADING
+Numberof Sales 16 21 31.3%
+YTD Numberof Sales 82 87 6.1%
+MedianSale Price $820,000 $881,000 7.4%
+YTD MedianSale Price $758,500 $767,000 1.1%
+NORTHAMPTON
+Numberof Sales 17 15 -11.8%
+YTD Numberof Sales 107 65 -39.3%
+MedianSale Price $595,500 $476,000 -20.1%
+YTD MedianSale Price $450,000 $517,000 14.9%
+NORTHBOROUGH
+Numberof Sales 20 13 -35.0%
+YTD Numberof Sales 89 66 -25.8%
+MedianSale Price $660,500 $810,000 22.6%
+YTD MedianSale Price $625,000 $666,000 6.6%
+NORTHBRIDGE
+Numberof Sales 12 9 -25.0%
+YTD Numberof Sales 75 57 -24.0%
+MedianSale Price $550,000 $650,000 18.2%
+YTD MedianSale Price $471,900 $555,000 17.6%
+NORTHFIELD
+Numberof Sales 5 3 -40.0%
+YTD Numberof Sales 15 12 -20.0%
+MedianSale Price $289,000 $425,000 47.1%
+YTD MedianSale Price $298,325 $332,500 11.5%
+NORTON
+Numberof Sales 20 15 -25.0%
+YTD Numberof Sales 92 69 -25.0%
+MedianSale Price $520,500 $400,000 -23.2%
+YTD MedianSale Price $500,000 $550,000 10.0%
+NORWELL
+Numberof Sales 17 12 -29.4%
+YTD Numberof Sales 100 61 -39.0%
+MedianSale Price $850,000 $1,062,500 25.0%
+YTD MedianSale Price $892,500 $884,000 -1.0%
+NORWOOD
+Numberof Sales 20 22 10.0%
+YTD Numberof Sales 128 111 -13.3%
+MedianSale Price $647,500 $622,500 -3.9%
+YTD MedianSale Price $668,250 $625,000 -6.5%
+OAKBLUFFS
+Numberof Sales 10 2 -80.0%YTD Numberof Sales 36 22 -38.9%
+MedianSale Price $1,145,000 $975,500 -14.8%
+YTD MedianSale Price $991,100 $1,088,000 9.8%
+OAKHAM
+Numberof Sales 3 1 -66.7%
+YTD Numberof Sales 12 5 -58.3%
+MedianSale Price $670,000 $250,000 -62.7%
+YTD MedianSale Price $479,385 $375,000 -21.8%
+ORANGE
+Numberof Sales 7 3 -57.1%
+YTD Numberof Sales 41 49 19.5%
+MedianSale Price $270,090 $230,000 -14.8%
+YTD MedianSale Price $250,000 $280,000 12.0%
+ORLEANS
+Numberof Sales 11 6 -45.5%
+YTD Numberof Sales 59 47 -20.3%
+MedianSale Price $1,100,000 $1,047,500 -4.8%
+YTD MedianSale Price $1,040,000 $1,105,000 6.3%
+OSTERVILLE
+Numberof Sales 3 5 66.7%
+YTD Numberof Sales 48 31 -35.4%
+MedianSale Price $700,000 $643,900 -8.0%
+YTD MedianSale Price $951,869 $1,100,500 15.6%
+OTIS
+Numberof Sales 4 5 25.0%
+YTD Numberof Sales 24 20 -16.7%
+MedianSale Price $607,500 $399,000 -34.3%
+YTD MedianSale Price $410,500 $455,000 10.8%
+OXFORD
+Numberof Sales 16 15 -6.3%
+YTD Numberof Sales 80 55 -31.3%
+MedianSale Price $437,500 $410,000 -6.3%
+YTD MedianSale Price $347,500 $397,000 14.2%
+PALMER
+Numberof Sales 15 14 -6.7%
+YTD Numberof Sales 79 68 -13.9%
+MedianSale Price $265,000 $322,450 21.7%
+YTD MedianSale Price $265,000 $281,000 6.0%
+PAXTON
+Numberof Sales 6 4 -33.3%
+YTD Numberof Sales 28 22 -21.4%
+MedianSale Price $365,000 $526,750 44.3%
+YTD MedianSale Price $427,500 $489,200 14.4%
+PEABODY
+Numberof Sales 28 31 10.7%
+YTD Numberof Sales 172 145 -15.7%
+MedianSale Price $607,500 $646,000 6.3%
+YTD MedianSale Price $590,500 $605,000 2.5%
+PELHAM
+Numberof Sales 1 1 0.0%
+YTD Numberof Sales 8 11 37.5%MedianSale Price $439,250 $585,000 33.2%
+YTD MedianSale Price $506,400 $489,000 -3.4%
+PEMBROKE
+Numberof Sales 12 14 16.7%
+YTD Numberof Sales 107 80 -25.2%
+MedianSale Price $550,000 $587,500 6.8%
+YTD MedianSale Price $530,000 $551,750 4.1%
+PEPPERELL
+Numberof Sales 8 12 50.0%
+YTD Numberof Sales 55 54 -1.8%
+MedianSale Price $552,500 $680,000 23.1%
+YTD MedianSale Price $530,000 $527,500 -0.5%
+PERU
+Numberof Sales 0 0
+YTD Numberof Sales 3 1 -66.7%
+MedianSale Price $0 $0
+YTD MedianSale Price $190,000 $295,000 55.3%
+PETERSHAM
+Numberof Sales 1 0 -100.0%
+YTD Numberof Sales 9 5 -44.4%
+MedianSale Price $210,000 $0 -100.0%
+YTD MedianSale Price $294,500 $399,000 35.5%
+PHILLIPSTON
+Numberof Sales 5 1 -80.0%
+YTD Numberof Sales 14 5 -64.3%
+MedianSale Price $303,500 $310,000 2.1%
+YTD MedianSale Price $296,750 $380,000 28.1%
+PITTSFIELD
+Numberof Sales 50 25 -50.0%
+YTD Numberof Sales 257 195 -24.1%
+MedianSale Price $260,000 $302,400 16.3%
+YTD MedianSale Price $255,500 $265,000 3.7%
+PLAINFIELD
+Numberof Sales 0 1
+YTD Numberof Sales 3 1 -66.7%
+MedianSale Price $0 $290,000
+YTD MedianSale Price $300,000 $290,000 -3.3%
+PLAINVILLE
+Numberof Sales 5 3 -40.0%
+YTD Numberof Sales 39 34 -12.8%
+MedianSale Price $580,000 $975,000 68.1%
+YTD MedianSale Price $545,000 $523,500 -3.9%
+PLYMOUTH
+Numberof Sales 56 55 -1.8%
+YTD Numberof Sales 386 302 -21.8%
+MedianSale Price $567,500 $555,000 -2.2%
+YTD MedianSale Price $545,000 $555,000 1.8%
+PLYMOUTHCOUNTY
+Numberof Sales 0 0
+YTD Numberof Sales 0 0
+MedianSale Price $0 $0YTD MedianSale Price $0 $0
+PLYMPTON
+Numberof Sales 10 0 -100.0%
+YTD Numberof Sales 24 8 -66.7%
+MedianSale Price $573,750 $0 -100.0%
+YTD MedianSale Price $561,250 $609,500 8.6%
+PRINCETON
+Numberof Sales 5 4 -20.0%
+YTD Numberof Sales 26 15 -42.3%
+MedianSale Price $525,000 $621,500 18.4%
+YTD MedianSale Price $570,000 $600,000 5.3%
+PROVINCETOWN
+Numberof Sales 1 1 0.0%
+YTD Numberof Sales 12 6 -50.0%
+MedianSale Price $1,110,000 $850,000 -23.4%
+YTD MedianSale Price $1,512,500 $2,049,500 35.5%
+QUINCY
+Numberof Sales 59 30 -49.2%
+YTD Numberof Sales 236 192 -18.6%
+MedianSale Price $710,000 $657,500 -7.4%
+YTD MedianSale Price $650,000 $623,500 -4.1%
+RANDOLPH
+Numberof Sales 27 6 -77.8%
+YTD Numberof Sales 160 99 -38.1%
+MedianSale Price $500,000 $469,000 -6.2%
+YTD MedianSale Price $518,750 $500,000 -3.6%
+RAYNHAM
+Numberof Sales 13 15 15.4%
+YTD Numberof Sales 63 59 -6.3%
+MedianSale Price $480,000 $650,000 35.4%
+YTD MedianSale Price $510,000 $500,000 -2.0%
+READING
+Numberof Sales 29 11 -62.1%
+YTD Numberof Sales 153 90 -41.2%
+MedianSale Price $743,000 $900,000 21.1%
+YTD MedianSale Price $825,000 $812,500 -1.5%
+REHOBOTH
+Numberof Sales 11 7 -36.4%
+YTD Numberof Sales 81 54 -33.3%
+MedianSale Price $575,000 $620,000 7.8%
+YTD MedianSale Price $520,000 $575,000 10.6%
+REVERE
+Numberof Sales 12 12 0.0%
+YTD Numberof Sales 82 75 -8.5%
+MedianSale Price $600,000 $634,250 5.7%
+YTD MedianSale Price $577,450 $575,000 -0.4%
+RICHMOND
+Numberof Sales 2 2 0.0%
+YTD Numberof Sales 12 13 8.3%
+MedianSale Price $895,500 $585,000 -34.7%
+YTD MedianSale Price $470,000 $670,000 42.6%ROCHESTER
+Numberof Sales 3 4 33.3%
+YTD Numberof Sales 27 35 29.6%
+MedianSale Price $849,900 $677,500 -20.3%
+YTD MedianSale Price $560,000 $570,000 1.8%
+ROCKLAND
+Numberof Sales 13 9 -30.8%
+YTD Numberof Sales 68 52 -23.5%
+MedianSale Price $585,000 $502,000 -14.2%
+YTD MedianSale Price $494,950 $463,500 -6.4%
+ROCKPORT
+Numberof Sales 8 5 -37.5%
+YTD Numberof Sales 29 26 -10.3%
+MedianSale Price $1,230,000 $1,149,000 -6.6%
+YTD MedianSale Price $850,000 $717,250 -15.6%
+ROSLINDALE
+Numberof Sales 19 5 -73.7%
+YTD Numberof Sales 71 46 -35.2%
+MedianSale Price $875,000 $952,000 8.8%
+YTD MedianSale Price $769,900 $787,000 2.2%
+ROWE
+Numberof Sales 1 0 -100.0%
+YTD Numberof Sales 4 1 -75.0%
+MedianSale Price $160,000 $0 -100.0%
+YTD MedianSale Price $253,750 $258,700 2.0%
+ROWLEY
+Numberof Sales 7 6 -14.3%
+YTD Numberof Sales 32 27 -15.6%
+MedianSale Price $820,000 $810,000 -1.2%
+YTD MedianSale Price $732,500 $751,000 2.5%
+ROXBURY
+Numberof Sales 3 5 66.7%
+YTD Numberof Sales 17 11 -35.3%
+MedianSale Price $785,000 $620,000 -21.0%
+YTD MedianSale Price $700,000 $672,500 -3.9%
+ROYALSTON
+Numberof Sales 2 2 0.0%
+YTD Numberof Sales 13 10 -23.1%
+MedianSale Price $420,000 $488,750 16.4%
+YTD MedianSale Price $340,000 $366,250 7.7%
+RUSSELL
+Numberof Sales 3 5 66.7%
+YTD Numberof Sales 10 12 20.0%
+MedianSale Price $265,000 $211,000 -20.4%
+YTD MedianSale Price $267,500 $228,000 -14.8%
+RUTLAND
+Numberof Sales 8 10 25.0%
+YTD Numberof Sales 67 43 -35.8%
+MedianSale Price $500,000 $496,000 -0.8%
+YTD MedianSale Price $476,100 $540,000 13.4%
+SALEMNumberof Sales 19 13 -31.6%
+YTD Numberof Sales 118 94 -20.3%
+MedianSale Price $635,000 $589,000 -7.2%
+YTD MedianSale Price $600,500 $572,450 -4.7%
+SALISBURY
+Numberof Sales 10 5 -50.0%
+YTD Numberof Sales 39 21 -46.2%
+MedianSale Price $496,500 $555,000 11.8%
+YTD MedianSale Price $503,000 $475,000 -5.6%
+SANDISFIELD
+Numberof Sales 2 3 50.0%
+YTD Numberof Sales 10 9 -10.0%
+MedianSale Price $535,000 $245,000 -54.2%
+YTD MedianSale Price $328,250 $380,000 15.8%
+SANDWICH
+Numberof Sales 31 18 -41.9%
+YTD Numberof Sales 180 166 -7.8%
+MedianSale Price $625,000 $638,250 2.1%
+YTD MedianSale Price $620,000 $636,000 2.6%
+SAUGUS
+Numberof Sales 25 16 -36.0%
+YTD Numberof Sales 145 108 -25.5%
+MedianSale Price $650,000 $684,000 5.2%
+YTD MedianSale Price $610,000 $620,000 1.6%
+SAVOY
+Numberof Sales 2 0 -100.0%
+YTD Numberof Sales 5 2 -60.0%
+MedianSale Price $352,500 $0 -100.0%
+YTD MedianSale Price $300,000 $154,950 -48.4%
+SCITUATE
+Numberof Sales 32 31 -3.1%
+YTD Numberof Sales 148 130 -12.2%
+MedianSale Price $905,000 $800,000 -11.6%
+YTD MedianSale Price $870,000 $860,000 -1.1%
+SEEKONK
+Numberof Sales 18 16 -11.1%
+YTD Numberof Sales 100 78 -22.0%
+MedianSale Price $470,000 $495,000 5.3%
+YTD MedianSale Price $441,000 $470,000 6.6%
+SHARON
+Numberof Sales 20 19 -5.0%
+YTD Numberof Sales 119 89 -25.2%
+MedianSale Price $750,000 $735,000 -2.0%
+YTD MedianSale Price $765,000 $770,000 0.7%
+SHEFFIELD
+Numberof Sales 5 1 -80.0%
+YTD Numberof Sales 24 17 -29.2%
+MedianSale Price $495,000 $300,000 -39.4%
+YTD MedianSale Price $497,500 $475,000 -4.5%
+SHELBURNE
+Numberof Sales 1 1 0.0%YTD Numberof Sales 3 5 66.7%
+MedianSale Price $450,000 $395,000 -12.2%
+YTD MedianSale Price $620,000 $470,825 -24.1%
+SHERBORN
+Numberof Sales 8 3 -62.5%
+YTD Numberof Sales 45 28 -37.8%
+MedianSale Price $1,005,000 $1,600,000 59.2%
+YTD MedianSale Price $1,107,000 $1,082,500 -2.2%
+SHIRLEY
+Numberof Sales 6 5 -16.7%
+YTD Numberof Sales 33 26 -21.2%
+MedianSale Price $507,500 $303,000 -40.3%
+YTD MedianSale Price $465,000 $426,000 -8.4%
+SHREWSBURY
+Numberof Sales 49 30 -38.8%
+YTD Numberof Sales 200 135 -32.5%
+MedianSale Price $680,000 $727,500 7.0%
+YTD MedianSale Price $640,000 $620,000 -3.1%
+SHUTESBURY
+Numberof Sales 2 1 -50.0%
+YTD Numberof Sales 12 8 -33.3%
+MedianSale Price $534,018 $695,000 30.1%
+YTD MedianSale Price $266,518 $401,000 50.5%
+SOMERSET
+Numberof Sales 16 12 -25.0%
+YTD Numberof Sales 114 88 -22.8%
+MedianSale Price $400,000 $505,000 26.3%
+YTD MedianSale Price $402,500 $430,000 6.8%
+SOMERVILLE
+Numberof Sales 4 7 75.0%
+YTD Numberof Sales 35 41 17.1%
+MedianSale Price $1,050,000 $1,000,000 -4.8%
+YTD MedianSale Price $1,200,000 $1,100,000 -8.3%
+SOUTHBOSTON
+Numberof Sales 7 5 -28.6%
+YTD Numberof Sales 45 27 -40.0%
+MedianSale Price $1,355,000 $1,274,999 -5.9%
+YTD MedianSale Price $1,125,000 $1,025,000 -8.9%
+SOUTHHADLEY
+Numberof Sales 13 13 0.0%
+YTD Numberof Sales 80 83 3.8%
+MedianSale Price $349,000 $391,500 12.2%
+YTD MedianSale Price $325,000 $350,000 7.7%
+SOUTHAMPTON
+Numberof Sales 4 3 -25.0%
+YTD Numberof Sales 41 23 -43.9%
+MedianSale Price $444,250 $525,000 18.2%
+YTD MedianSale Price $450,000 $415,000 -7.8%
+SOUTHBOROUGH
+Numberof Sales 16 13 -18.8%
+YTD Numberof Sales 78 59 -24.4%MedianSale Price $1,080,000 $950,000 -12.0%
+YTD MedianSale Price $996,000 $930,000 -6.6%
+SOUTHBRIDGE
+Numberof Sales 11 10 -9.1%
+YTD Numberof Sales 86 72 -16.3%
+MedianSale Price $306,000 $315,500 3.1%
+YTD MedianSale Price $317,500 $330,000 3.9%
+SOUTHWICK
+Numberof Sales 10 7 -30.0%
+YTD Numberof Sales 55 33 -40.0%
+MedianSale Price $447,500 $460,000 2.8%
+YTD MedianSale Price $350,000 $330,000 -5.7%
+SPENCER
+Numberof Sales 12 9 -25.0%
+YTD Numberof Sales 66 62 -6.1%
+MedianSale Price $486,200 $400,000 -17.7%
+YTD MedianSale Price $387,450 $400,000 3.2%
+SPRINGFIELD
+Numberof Sales 121 83 -31.4%
+YTD Numberof Sales 763 605 -20.7%
+MedianSale Price $260,000 $275,000 5.8%
+YTD MedianSale Price $250,000 $251,000 0.4%
+STERLING
+Numberof Sales 1 9 800.0%
+YTD Numberof Sales 34 36 5.9%
+MedianSale Price $477,000 $462,900 -3.0%
+YTD MedianSale Price $557,500 $553,150 -0.8%
+STOCKBRIDGE
+Numberof Sales 1 5 400.0%
+YTD Numberof Sales 12 18 50.0%
+MedianSale Price $250,000 $945,000 278.0%
+YTD MedianSale Price $577,500 $715,000 23.8%
+STONEHAM
+Numberof Sales 21 18 -14.3%
+YTD Numberof Sales 99 73 -26.3%
+MedianSale Price $780,000 $760,000 -2.6%
+YTD MedianSale Price $725,000 $710,000 -2.1%
+STOUGHTON
+Numberof Sales 18 22 22.2%
+YTD Numberof Sales 139 102 -26.6%
+MedianSale Price $526,500 $475,000 -9.8%
+YTD MedianSale Price $540,000 $510,000 -5.6%
+STOW
+Numberof Sales 8 4 -50.0%
+YTD Numberof Sales 47 35 -25.5%
+MedianSale Price $805,500 $822,500 2.1%
+YTD MedianSale Price $826,000 $790,000 -4.4%
+STURBRIDGE
+Numberof Sales 14 9 -35.7%
+YTD Numberof Sales 72 49 -31.9%
+MedianSale Price $435,000 $650,000 49.4%YTD MedianSale Price $439,950 $455,000 3.4%
+SUDBURY
+Numberof Sales 38 20 -47.4%
+YTD Numberof Sales 162 109 -32.7%
+MedianSale Price $1,250,000 $1,075,000 -14.0%
+YTD MedianSale Price $1,232,500 $1,150,000 -6.7%
+SUFFOLKCOUNTY
+Numberof Sales 0 0
+YTD Numberof Sales 0 0
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $0
+SUNDERLAND
+Numberof Sales 5 2 -60.0%
+YTD Numberof Sales 20 6 -70.0%
+MedianSale Price $486,500 $747,518 53.7%
+YTD MedianSale Price $442,500 $374,000 -15.5%
+SUTTON
+Numberof Sales 12 9 -25.0%
+YTD Numberof Sales 53 38 -28.3%
+MedianSale Price $573,000 $610,000 6.5%
+YTD MedianSale Price $560,000 $582,500 4.0%
+SWAMPSCOTT
+Numberof Sales 12 3 -75.0%
+YTD Numberof Sales 72 46 -36.1%
+MedianSale Price $732,500 $850,000 16.0%
+YTD MedianSale Price $785,350 $803,500 2.3%
+SWANSEA
+Numberof Sales 19 12 -36.8%
+YTD Numberof Sales 106 89 -16.0%
+MedianSale Price $408,000 $431,650 5.8%
+YTD MedianSale Price $410,000 $423,000 3.2%
+TAUNTON
+Numberof Sales 43 34 -20.9%
+YTD Numberof Sales 248 183 -26.2%
+MedianSale Price $452,500 $482,500 6.6%
+YTD MedianSale Price $437,500 $447,500 2.3%
+TEMPLETON
+Numberof Sales 14 9 -35.7%
+YTD Numberof Sales 65 48 -26.2%
+MedianSale Price $327,000 $415,000 26.9%
+YTD MedianSale Price $340,000 $400,000 17.6%
+TEWKSBURY
+Numberof Sales 32 14 -56.3%
+YTD Numberof Sales 170 104 -38.8%
+MedianSale Price $605,000 $683,000 12.9%
+YTD MedianSale Price $610,000 $642,450 5.3%
+TISBURY
+Numberof Sales 5 5 0.0%
+YTD Numberof Sales 33 32 -3.0%
+MedianSale Price $1,290,000 $854,000 -33.8%
+YTD MedianSale Price $1,050,000 $1,030,000 -1.9%TOLLAND
+Numberof Sales 1 1 0.0%
+YTD Numberof Sales 10 6 -40.0%
+MedianSale Price $197,000 $290,000 47.2%
+YTD MedianSale Price $206,500 $351,250 70.1%
+TOPSFIELD
+Numberof Sales 5 7 40.0%
+YTD Numberof Sales 42 30 -28.6%
+MedianSale Price $800,000 $845,000 5.6%
+YTD MedianSale Price $790,000 $863,000 9.2%
+TOWNSEND
+Numberof Sales 8 9 12.5%
+YTD Numberof Sales 70 30 -57.1%
+MedianSale Price $482,500 $450,000 -6.7%
+YTD MedianSale Price $402,500 $461,000 14.5%
+TRURO
+Numberof Sales 2 1 -50.0%
+YTD Numberof Sales 15 14 -6.7%
+MedianSale Price $1,631,000 $1,200,000 -26.4%
+YTD MedianSale Price $1,100,000 $955,000 -13.2%
+TYNGSBORO
+Numberof Sales 4 7 75.0%
+YTD Numberof Sales 56 38 -32.1%
+MedianSale Price $749,950 $645,000 -14.0%
+YTD MedianSale Price $580,000 $612,500 5.6%
+TYRINGHAM
+Numberof Sales 1 0 -100.0%
+YTD Numberof Sales 6 0 -100.0%
+MedianSale Price $850,000 $0 -100.0%
+YTD MedianSale Price $752,500 $0 -100.0%
+UPTON
+Numberof Sales 8 6 -25.0%
+YTD Numberof Sales 51 31 -39.2%
+MedianSale Price $712,500 $532,500 -25.3%
+YTD MedianSale Price $650,000 $660,000 1.5%
+UXBRIDGE
+Numberof Sales 15 16 6.7%
+YTD Numberof Sales 75 52 -30.7%
+MedianSale Price $500,000 $472,500 -5.5%
+YTD MedianSale Price $465,000 $490,000 5.4%
+WAKEFIELD
+Numberof Sales 21 18 -14.3%
+YTD Numberof Sales 126 92 -27.0%
+MedianSale Price $740,000 $802,500 8.4%
+YTD MedianSale Price $725,000 $750,000 3.4%
+WALES
+Numberof Sales 4 3 -25.0%
+YTD Numberof Sales 16 10 -37.5%
+MedianSale Price $237,750 $250,000 5.2%
+YTD MedianSale Price $257,500 $319,000 23.9%
+WALPOLENumberof Sales 31 21 -32.3%
+YTD Numberof Sales 127 95 -25.2%
+MedianSale Price $698,600 $775,000 10.9%
+YTD MedianSale Price $690,000 $701,000 1.6%
+WALTHAM
+Numberof Sales 36 22 -38.9%
+YTD Numberof Sales 194 145 -25.3%
+MedianSale Price $770,000 $747,500 -2.9%
+YTD MedianSale Price $745,018 $770,000 3.4%
+WARE
+Numberof Sales 9 6 -33.3%
+YTD Numberof Sales 65 47 -27.7%
+MedianSale Price $315,000 $268,700 -14.7%
+YTD MedianSale Price $295,000 $275,000 -6.8%
+WAREHAM
+Numberof Sales 37 20 -45.9%
+YTD Numberof Sales 211 146 -30.8%
+MedianSale Price $393,000 $425,000 8.1%
+YTD MedianSale Price $403,000 $387,250 -3.9%
+WARREN
+Numberof Sales 3 2 -33.3%
+YTD Numberof Sales 24 15 -37.5%
+MedianSale Price $287,000 $315,000 9.8%
+YTD MedianSale Price $283,500 $280,000 -1.2%
+WARWICK
+Numberof Sales 1 1 0.0%
+YTD Numberof Sales 4 4 0.0%
+MedianSale Price $150,000 $390,000 160.0%
+YTD MedianSale Price $185,000 $345,000 86.5%
+WASHINGTON
+Numberof Sales 0 1
+YTD Numberof Sales 2 2 0.0%
+MedianSale Price $0 $300,000
+YTD MedianSale Price $320,000 $400,000 25.0%
+WATERTOWN
+Numberof Sales 11 6 -45.5%
+YTD Numberof Sales 51 41 -19.6%
+MedianSale Price $1,130,000 $863,000 -23.6%
+YTD MedianSale Price $860,000 $889,000 3.4%
+WAYLAND
+Numberof Sales 15 15 0.0%
+YTD Numberof Sales 84 61 -27.4%
+MedianSale Price $1,155,000 $1,135,000 -1.7%
+YTD MedianSale Price $977,500 $1,100,000 12.5%
+WEBSTER
+Numberof Sales 22 16 -27.3%
+YTD Numberof Sales 89 75 -15.7%
+MedianSale Price $372,500 $357,500 -4.0%
+YTD MedianSale Price $375,000 $355,000 -5.3%
+WELLESLEY
+Numberof Sales 36 24 -33.3%YTD Numberof Sales 223 151 -32.3%
+MedianSale Price $1,867,500 $2,060,000 10.3%
+YTD MedianSale Price $1,960,000 $1,920,000 -2.0%
+WELLFLEET
+Numberof Sales 4 6 50.0%
+YTD Numberof Sales 26 21 -19.2%
+MedianSale Price $1,219,950 $1,262,500 3.5%
+YTD MedianSale Price $844,500 $1,100,000 30.3%
+WENDELL
+Numberof Sales 0 2
+YTD Numberof Sales 3 4 33.3%
+MedianSale Price $0 $330,000
+YTD MedianSale Price $340,000 $395,000 16.2%
+WENHAM
+Numberof Sales 2 4 100.0%
+YTD Numberof Sales 33 23 -30.3%
+MedianSale Price $752,500 $980,000 30.2%
+YTD MedianSale Price $870,000 $815,000 -6.3%
+WESTBOYLSTON
+Numberof Sales 6 5 -16.7%
+YTD Numberof Sales 45 26 -42.2%
+MedianSale Price $625,000 $530,000 -15.2%
+YTD MedianSale Price $425,000 $485,000 14.1%
+WESTBRIDGEWATER
+Numberof Sales 7 6 -14.3%
+YTD Numberof Sales 32 44 37.5%
+MedianSale Price $390,000 $475,000 21.8%
+YTD MedianSale Price $481,188 $525,000 9.1%
+WESTBROOKFIELD
+Numberof Sales 3 6 100.0%
+YTD Numberof Sales 34 24 -29.4%
+MedianSale Price $350,000 $387,500 10.7%
+YTD MedianSale Price $350,000 $347,500 -0.7%
+WESTNEWBURY
+Numberof Sales 7 6 -14.3%
+YTD Numberof Sales 23 19 -17.4%
+MedianSale Price $630,000 $980,000 55.6%
+YTD MedianSale Price $735,000 $899,777 22.4%
+WESTROXBURY
+Numberof Sales 27 30 11.1%
+YTD Numberof Sales 133 131 -1.5%
+MedianSale Price $840,000 $815,000 -3.0%
+YTD MedianSale Price $800,000 $770,000 -3.8%
+WESTSPRINGFIELD
+Numberof Sales 28 31 10.7%
+YTD Numberof Sales 167 115 -31.1%
+MedianSale Price $327,500 $305,000 -6.9%
+YTD MedianSale Price $287,000 $310,000 8.0%
+WESTSTOCKBRIDGE
+Numberof Sales 2 2 0.0%
+YTD Numberof Sales 14 5 -64.3%MedianSale Price $2,053,000 $586,000 -71.5%
+YTD MedianSale Price $511,500 $405,000 -20.8%
+WESTTISBURY
+Numberof Sales 1 2 100.0%
+YTD Numberof Sales 9 19 111.1%
+MedianSale Price $900,000 $1,637,500 81.9%
+YTD MedianSale Price $1,525,000 $1,625,000 6.6%
+WESTBOROUGH
+Numberof Sales 24 13 -45.8%
+YTD Numberof Sales 83 64 -22.9%
+MedianSale Price $712,500 $920,000 29.1%
+YTD MedianSale Price $705,000 $807,500 14.5%
+WESTFIELD
+Numberof Sales 30 34 13.3%
+YTD Numberof Sales 202 149 -26.2%
+MedianSale Price $327,500 $350,500 7.0%
+YTD MedianSale Price $313,450 $305,000 -2.7%
+WESTFORD
+Numberof Sales 30 16 -46.7%
+YTD Numberof Sales 139 92 -33.8%
+MedianSale Price $725,000 $743,000 2.5%
+YTD MedianSale Price $750,000 $716,000 -4.5%
+WESTHAMPTON
+Numberof Sales 2 1 -50.0%
+YTD Numberof Sales 15 7 -53.3%
+MedianSale Price $472,000 $581,500 23.2%
+YTD MedianSale Price $450,000 $444,000 -1.3%
+WESTMINSTER
+Numberof Sales 6 7 16.7%
+YTD Numberof Sales 46 46 0.0%
+MedianSale Price $510,000 $510,000 0.0%
+YTD MedianSale Price $425,000 $530,000 24.7%
+WESTON
+Numberof Sales 13 14 7.7%
+YTD Numberof Sales 91 77 -15.4%
+MedianSale Price $2,475,000 $2,639,000 6.6%
+YTD MedianSale Price $2,195,000 $2,120,000 -3.4%
+WESTPORT
+Numberof Sales 14 14 0.0%
+YTD Numberof Sales 85 59 -30.6%
+MedianSale Price $469,950 $548,000 16.6%
+YTD MedianSale Price $440,000 $540,000 22.7%
+WESTWOOD
+Numberof Sales 17 18 5.9%
+YTD Numberof Sales 83 82 -1.2%
+MedianSale Price $1,375,000 $1,200,000 -12.7%
+YTD MedianSale Price $1,250,000 $1,247,500 -0.2%
+WEYMOUTH
+Numberof Sales 56 42 -25.0%
+YTD Numberof Sales 303 210 -30.7%
+MedianSale Price $562,500 $612,500 8.9%YTD MedianSale Price $560,000 $575,000 2.7%
+WHATELY
+Numberof Sales 3 1 -66.7%
+YTD Numberof Sales 12 4 -66.7%
+MedianSale Price $420,000 $549,000 30.7%
+YTD MedianSale Price $412,500 $474,500 15.0%
+WHITMAN
+Numberof Sales 12 10 -16.7%
+YTD Numberof Sales 75 60 -20.0%
+MedianSale Price $477,500 $522,500 9.4%
+YTD MedianSale Price $480,000 $491,225 2.3%
+WILBRAHAM
+Numberof Sales 16 12 -25.0%
+YTD Numberof Sales 92 87 -5.4%
+MedianSale Price $417,500 $397,500 -4.8%
+YTD MedianSale Price $394,450 $400,000 1.4%
+WILLIAMSBURG
+Numberof Sales 0 4
+YTD Numberof Sales 16 7 -56.3%
+MedianSale Price $0 $371,425
+YTD MedianSale Price $339,000 $302,850 -10.7%
+WILLIAMSTOWN
+Numberof Sales 10 6 -40.0%
+YTD Numberof Sales 40 26 -35.0%
+MedianSale Price $290,000 $584,000 101.4%
+YTD MedianSale Price $420,100 $437,250 4.1%
+WILMINGTON
+Numberof Sales 25 20 -20.0%
+YTD Numberof Sales 149 114 -23.5%
+MedianSale Price $620,000 $803,500 29.6%
+YTD MedianSale Price $687,900 $655,950 -4.6%
+WINCHENDON
+Numberof Sales 10 7 -30.0%
+YTD Numberof Sales 57 67 17.5%
+MedianSale Price $337,161 $300,000 -11.0%
+YTD MedianSale Price $330,000 $350,000 6.1%
+WINCHESTER
+Numberof Sales 19 22 15.8%
+YTD Numberof Sales 142 99 -30.3%
+MedianSale Price $1,987,100 $1,588,000 -20.1%
+YTD MedianSale Price $1,520,500 $1,490,000 -2.0%
+WINDSOR
+Numberof Sales 0 0
+YTD Numberof Sales 5 3 -40.0%
+MedianSale Price $0 $0
+YTD MedianSale Price $370,000 $102,000 -72.4%
+WINTHROP
+Numberof Sales 6 4 -33.3%
+YTD Numberof Sales 52 30 -42.3%
+MedianSale Price $630,000 $558,750 -11.3%
+YTD MedianSale Price $687,450 $676,000 -1.7%WOBURN
+Numberof Sales 30 20 -33.3%
+YTD Numberof Sales 169 120 -29.0%
+MedianSale Price $713,500 $740,791 3.8%
+YTD MedianSale Price $675,000 $664,000 -1.6%
+WORCESTER
+Numberof Sales 117 93 -20.5%
+YTD Numberof Sales 719 498 -30.7%
+MedianSale Price $390,000 $390,000 0.0%
+YTD MedianSale Price $367,000 $383,250 4.4%
+WORCESTERCOUNTY
+Numberof Sales 0 0
+YTD Numberof Sales 0 0
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $0
+WORTHINGTON
+Numberof Sales 1 0 -100.0%
+YTD Numberof Sales 9 4 -55.6%
+MedianSale Price $250,000 $0 -100.0%
+YTD MedianSale Price $290,000 $232,375 -19.9%
+WRENTHAM
+Numberof Sales 11 7 -36.4%
+YTD Numberof Sales 57 46 -19.3%
+MedianSale Price $760,000 $590,000 -22.4%
+YTD MedianSale Price $613,000 $629,500 2.7%
+YARMOUTH
+Numberof Sales 42 31 -26.2%
+YTD Numberof Sales 271 243 -10.3%
+MedianSale Price $512,500 $609,000 18.8%
+YTD MedianSale Price $520,000 $555,000 6.7%
+MA July 2023Sales,PricesBy TownFor Condos-- The WarrenGroup2023
+Jul 2022 Jul 2023 PercentChange
+ABINGTON
+Numberof Sales 1 2 100.0%
+YTD Numberof Sales 25 17 -32.0%
+MedianSale Price $415,000 $420,500 1.3%
+YTD MedianSale Price $400,000 $420,000 5.0%
+ACTON
+Numberof Sales 16 9 -43.8%
+YTD Numberof Sales 87 57 -34.5%
+MedianSale Price $505,000 $540,000 6.9%
+YTD MedianSale Price $405,000 $404,000 -0.2%
+ACUSHNET
+Numberof Sales 0 0
+YTD Numberof Sales 0 1
+MedianSale Price $0 $0
+YTD MedianSale Price $0 $11,450
+ADAMS
+Numberof Sales 0 0
+YTD Numberof Sales 1 1 0.0%
